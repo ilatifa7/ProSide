@@ -1,4 +1,4 @@
-# ProSide
+# ProSide:Predictive Side Effects via Drug-Drug Interactions and Indications
 
 
 # Drug Interaction Knowledge Graph Neural Network 🧬
