@@ -1,5 +1,14 @@
-# ProSide:Predictive Side Effects via Drug-Drug Interactions and Indications
+# ProSide: Predictive Side Effects via Drug-Drug Interactions and Indications
 
+<p align="center">
+      <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-3.5-ff69b4.svg" /></a>
+       <a href= "https://pytorch.org/">
+        <img src="https://img.shields.io/badge/PyTorch-1.3-2BAF2B.svg" /></a>
+       <a href= "https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
+
+</p>
 
 # Drug Interaction Knowledge Graph Neural Network 🧬
 
