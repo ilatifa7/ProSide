@@ -39,6 +39,8 @@ Our central mission is to:
 - Discover novel uses for established drugs, expanding their potential through drug repurposing.
 
 Our primary endeavor is to automate the database search, spotlighting positive side effects arising from drug combinations. Notably, ours is a pioneering solution in this sphere.
+![ProSide Predictive Side Effects via Drug-Drug Interactions and Indications](https://github.com/ilatifa7/ProSide/assets/119275110/e464c182-7e74-4c66-b7eb-74891b907018)
+
 
 ## 💡 Methodologies Employed
 
